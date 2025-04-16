@@ -1,0 +1,18 @@
+.carousel-caption {
+ bottom: 25%;
+ background: rgba(0, 0, 0, 0.5);
+ padding: 20px;
+ border-radius: 10px;
+}
+.shop-now-btn {
+ background-color: #000;
+ color: #fff;
+ padding: 10px 30px;
+ border-radius: 25px;
+ font-weight: bold;
+}
+.carousel-indicators button {
+ width: 10px;
+ height: 10px;
+ border-radius: 50%;
+}

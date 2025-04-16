@@ -1,0 +1,116 @@
+[
+ {
+  "productName": "Canon EOS 5D Mark IV",
+  "category": "DSLR",
+  "review": "Professional-grade DSLR camera with excellent image quality, 4K video, and fast autofocus.",
+  "imageUrl": "https://www.usa.canon.com/web/image/ezk16/eos5dmarkiv.jpg"
+ },
+ {
+  "productName": "Nikon D850",
+  "category": "DSLR",
+  "review": "High-resolution DSLR with superb image quality, fast performance, and 4K UHD video recording.",
+  "imageUrl": "https://www.nikonusa.com/sites/default/files/styles/wide_1280/public/2021-07/D850_Front_1280x720.jpg"
+ },
+ {
+  "productName": "Sony Alpha a7 III",
+  "category": "Mirrorless",
+  "review": "Full-frame mirrorless camera with excellent autofocus, image quality, and 4K video.",
+  "imageUrl": "https://www.sony.com/image/alpha-a7iii.jpg"
+ },
+ {
+  "productName": "Fujifilm X-T4",
+  "category": "Mirrorless",
+  "review": "Advanced mirrorless camera with in-body image stabilization, excellent color reproduction, and 4K video.",
+  "imageUrl": "https://fujifilmx.com/wp-content/uploads/2020/02/fujifilm-x-t4.jpg"
+ },
+ {
+  "productName": "Panasonic Lumix GH5",
+  "category": "Mirrorless",
+  "review": "Professional mirrorless camera with outstanding video capabilities and robust build.",
+  "imageUrl": "https://www.panasonic.com/content/dam/pim/global/consumer/dc/lumix-dc-gh5.jpg"
+ },
+ {
+  "productName": "Olympus OM-D E-M1 Mark III",
+  "category": "Mirrorless",
+  "review": "Compact mirrorless camera with excellent in-body stabilization and high-quality 4K video.",
+  "imageUrl": "https://www.getolympus.com/sites/default/files/styles/product_grid_480x480/public/2021-03/omd_e_m1markiii_hero.jpg"
+ },
+ {
+  "productName": "Canon EOS R5",
+  "category": "Mirrorless",
+  "review": "High-end mirrorless camera with stunning image quality, fast autofocus, and 8K video recording.",
+  "imageUrl": "https://www.usa.canon.com/web/image/eos_r5.jpg"
+ },
+ {
+  "productName": "Nikon Z9",
+  "category": "Mirrorless",
+  "review": "Flagship mirrorless camera with exceptional image quality, fast autofocus, and 8K video recording.",
+  "imageUrl": "https://www.nikonusa.com/sites/default/files/styles/wide_1280/public/2021-08/nikon-z9-front.jpg"
+ },
+ {
+  "productName": "Sony Alpha a6400",
+  "category": "Mirrorless",
+  "review": "Compact mirrorless camera with fast autofocus, 4K video, and great image quality.",
+  "imageUrl": "https://www.sony.com/image/alpha-a6400.jpg"
+ },
+ {
+  "productName": "Leica M10-R",
+  "category": "Rangefinder",
+  "review": "Premium rangefinder camera with exceptional image quality and classic design.",
+  "imageUrl": "https://www.leica-camera.com/sites/default/files/styles/image_1280x720/public/2020-07/Leica_M10-R_Body.jpg"
+ },
+ {
+  "productName": "Ricoh GR III",
+  "category": "Compact",
+  "review": "High-quality compact camera with a large sensor and sleek design, ideal for street photography.",
+  "imageUrl": "https://www.ricoh-imaging.co.jp/english/products/gr/gr3/images/gr3_01.jpg"
+ },
+ {
+  "productName": "Sony RX100 VII",
+  "category": "Compact",
+  "review": "Compact camera with a large sensor, fast autofocus, and excellent image quality.",
+  "imageUrl": "https://www.sony.com/image/rx100-vii.jpg"
+ },
+ {
+  "productName": "Panasonic Lumix LX100 II",
+  "category": "Compact",
+  "review": "Compact camera with a large sensor, fast lens, and great image quality.",
+  "imageUrl": "https://www.panasonic.com/content/dam/pim/global/consumer/dc/lumix-dc-lx100ii.jpg"
+ },
+ {
+  "productName": "Canon PowerShot G7 X Mark III",
+  "category": "Compact",
+  "review": "Compact camera with 4K video, fast autofocus, and excellent image quality.",
+  "imageUrl": "https://www.usa.canon.com/web/image/g7x_mark_iii.jpg"
+ },
+ {
+  "productName": "GoPro HERO 10 Black",
+  "category": "Action",
+  "review": "Durable action camera with 5.3K video, excellent stabilization, and great low-light performance.",
+  "imageUrl": "https://gopro.com/en/us/shop/cameras/hero10-black"
+ },
+ {
+  "productName": "DJI Osmo Action 3",
+  "category": "Action",
+  "review": "Action camera with excellent stabilization, 4K video, and a front-facing screen.",
+  "imageUrl": "https://www.dji.com/osmo-action-3"
+ },
+ {
+  "productName": "Insta360 ONE X2",
+  "category": "Action",
+  "review": "360-degree camera with exceptional stabilization, great video quality, and creative features.",
+  "imageUrl": "https://www.insta360.com/product/one-x2"
+ },
+ {
+  "productName": "Fujifilm Instax Mini 11",
+  "category": "Instant",
+  "review": "Instant camera with automatic exposure, fun design, and easy to use.",
+  "imageUrl": "https://www.fujifilm.com/instax/instax-mini-11"
+ },
+ {
+  "productName": "Polaroid Now+",
+  "category": "Instant",
+  "review": "Instant camera with Bluetooth connectivity, creative features, and fun design.",
+  "imageUrl": "https://www.polaroid.com/en/products/polaroid-now-plus"
+ }
+]

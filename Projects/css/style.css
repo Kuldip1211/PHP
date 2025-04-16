@@ -1,0 +1,63 @@
+body {
+  cursor: url('assets/cursor.png');
+}
+
+.nav-link.active {
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.search-box {
+  background-color: #f2f2f2;
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+.search-box input {
+  border: none;
+  background: transparent;
+  outline: none;
+  width: 180px;
+}
+
+.profile-dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0.5rem;
+}
+
+.profile-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.nav-link {
+  position: relative;
+  transition: color 0.3s;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 2px;
+  width: 0;
+  background-color: #000;
+  transition: width 0.3s;
+  border-radius: 2px;
+}
+
+.nav-link.active::after {
+  width: 60%;
+}
+
+.dropdown-menu {
+  min-width: 150px;
+}

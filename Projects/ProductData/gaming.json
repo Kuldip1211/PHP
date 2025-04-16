@@ -1,0 +1,62 @@
+[
+ {
+     "productName": "Razer Blade 15",
+     "category": "Gaming",
+     "review": "High-performance gaming laptop with RTX graphics and sleek design.",
+     "imageUrl": "https://m.media-amazon.com/images/I/71wF7YDIQkL._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "Alienware Aurora R15",
+     "category": "Gaming",
+     "review": "Powerful desktop gaming PC with excellent cooling and performance.",
+     "imageUrl": "https://m.media-amazon.com/images/I/61KqWcZ5ILL._AC_SL1000_.jpg"
+ },
+ {
+     "productName": "Logitech G Pro Wireless Mouse",
+     "category": "Gaming",
+     "review": "Lightweight wireless mouse with precision tracking for competitive gaming.",
+     "imageUrl": "https://m.media-amazon.com/images/I/51IOmsWnJ-L._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "SteelSeries Apex Pro",
+     "category": "Gaming",
+     "review": "Mechanical gaming keyboard with customizable actuation switches.",
+     "imageUrl": "https://m.media-amazon.com/images/I/71U0P8gAXcL._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "ASUS ROG Strix G16",
+     "category": "Gaming",
+     "review": "Gaming laptop with high refresh-rate display and advanced thermal management.",
+     "imageUrl": "https://m.media-amazon.com/images/I/81TKdZ5U4HL._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "Xbox Series X",
+     "category": "Gaming",
+     "review": "Next-gen gaming console with powerful graphics and fast loading times.",
+     "imageUrl": "https://m.media-amazon.com/images/I/61JGKhqxHxL._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "PlayStation 5",
+     "category": "Gaming",
+     "review": "Sony's latest console with immersive gameplay and DualSense controller.",
+     "imageUrl": "https://m.media-amazon.com/images/I/619BkvKW35L._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "MSI Optix MAG274QRF",
+     "category": "Gaming",
+     "review": "High-refresh-rate QHD gaming monitor with low response time.",
+     "imageUrl": "https://m.media-amazon.com/images/I/91W5N6W0bdL._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "Razer Kishi V2",
+     "category": "Gaming",
+     "review": "Mobile gaming controller with ergonomic design and console-level controls.",
+     "imageUrl": "https://m.media-amazon.com/images/I/71-Fye0xyUL._AC_SL1500_.jpg"
+ },
+ {
+     "productName": "Elgato Stream Deck MK.2",
+     "category": "Gaming",
+     "review": "Customizable control pad for streamers and gamers to enhance workflow.",
+     "imageUrl": "https://m.media-amazon.com/images/I/61FJ5j56RTL._AC_SL1500_.jpg"
+ }
+]

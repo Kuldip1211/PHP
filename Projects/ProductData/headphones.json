@@ -1,0 +1,92 @@
+[
+ {
+   "productName": "Sony WH-1000XM5",
+   "category": "Over-Ear",
+   "review": "Premium noise-canceling headphones with exceptional sound quality and long battery life.",
+   "imageUrl": "https://m.media-amazon.com/images/I/61B0+qQriOL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Bose QuietComfort 45",
+   "category": "Over-Ear",
+   "review": "Excellent active noise cancellation with comfortable fit and clear sound.",
+   "imageUrl": "https://m.media-amazon.com/images/I/51dQ9kNpJtL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Apple AirPods Max",
+   "category": "Over-Ear",
+   "review": "Premium build, spatial audio, and great noise cancellation for Apple ecosystem users.",
+   "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-max-select-pink-202011"
+ },
+ {
+   "productName": "JBL Tune 760NC",
+   "category": "Over-Ear",
+   "review": "Affordable noise-canceling headphones with JBL Pure Bass sound.",
+   "imageUrl": "https://m.media-amazon.com/images/I/61OSM8ZbfJL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Sennheiser HD 450BT",
+   "category": "Over-Ear",
+   "review": "Balanced sound with effective noise cancellation and reliable Bluetooth connection.",
+   "imageUrl": "https://m.media-amazon.com/images/I/71CRy7sxXjL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Beats Studio3 Wireless",
+   "category": "Over-Ear",
+   "review": "Powerful sound with strong bass and active noise cancellation.",
+   "imageUrl": "https://m.media-amazon.com/images/I/51-+E1ZQ3rL._AC_SL1000_.jpg"
+ },
+ {
+   "productName": "Anker Soundcore Life Q35",
+   "category": "Over-Ear",
+   "review": "Affordable ANC headphones with LDAC support and impressive battery life.",
+   "imageUrl": "https://m.media-amazon.com/images/I/61ssJz74GQL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Logitech G PRO X",
+   "category": "Gaming",
+   "review": "High-performance gaming headset with Blue VO!CE microphone and DTS surround sound.",
+   "imageUrl": "https://m.media-amazon.com/images/I/81mF+5eyLaL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "SteelSeries Arctis 7",
+   "category": "Gaming",
+   "review": "Comfortable wireless gaming headset with clear mic and immersive audio.",
+   "imageUrl": "https://m.media-amazon.com/images/I/71SH7NfsQPL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Razer BlackShark V2",
+   "category": "Gaming",
+   "review": "Lightweight esports headset with THX spatial audio and great mic clarity.",
+   "imageUrl": "https://m.media-amazon.com/images/I/71jZ5y7y7eL._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Sony WF-1000XM5",
+   "category": "In-Ear",
+   "review": "Top-tier true wireless earbuds with best-in-class ANC and audio quality.",
+   "imageUrl": "https://m.media-amazon.com/images/I/61aDgRm1Z8L._AC_SL1500_.jpg"
+ },
+ {
+   "productName": "Apple AirPods Pro 2",
+   "category": "In-Ear",
+   "review": "Seamless Apple integration with enhanced ANC, transparency mode, and better battery.",
+   "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-pro-2nd-gen-select-202209"
+ },
+ {
+   "productName": "OnePlus Buds Pro 2",
+   "category": "In-Ear",
+   "review": "True wireless earbuds with spatial audio and great battery life for Android users.",
+   "imageUrl": "https://image01.oneplus.net/ebp/202301/30/1-m00-1f-69-rb8bwmrvtmmap-5aaanv9ub2b0312_840_840.png"
+ },
+ {
+   "productName": "Realme Buds Air 5 Pro",
+   "category": "In-Ear",
+   "review": "Value-packed ANC earbuds with LDAC, dual drivers, and long battery backup.",
+   "imageUrl": "https://image01.realme.net/general/20230803/16910303539268.png"
+ },
+ {
+   "productName": "Boat Airdopes 441",
+   "category": "In-Ear",
+   "review": "Budget true wireless earbuds with decent sound and sweat-resistant build.",
+   "imageUrl": "https://cdn1.smartprix.com/rx-iq7Ri5YGL-w1200-h1200/boAt-Airdopes-441-T.jpg"
+ }
+]

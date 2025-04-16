@@ -1,0 +1,121 @@
+[{
+  "productName": "iPhone 14 Pro Max",
+  "category": "Smartphone",
+  "review": "A premium flagship with top-tier performance, great camera, and a sleek design.",
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-max-deep-purple"
+ },
+ {
+  "productName": "Samsung Galaxy S24 Ultra",
+  "category": "Smartphone",
+  "review": "Excellent display, powerful performance, and versatile camera setup. Great for Android enthusiasts.",
+  "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/in/sm-s928bzkqins/gallery/in-galaxy-s24-ultra-5g-s928-sm-s928bzkqins-thumb-538867360"
+ },
+ {
+  "productName": "OnePlus 12",
+  "category": "Smartphone",
+  "review": "Solid performance, clean software, and fast charging. A strong contender in the flagship segment.",
+  "imageUrl": "https://image01.oneplus.net/ebp/202401/03/1-m00-48-e3-rb8bwmw9xaqabn8jaads6i3qs0s610_840_840.png"
+ },
+ {
+  "productName": "Google Pixel 8 Pro",
+  "category": "Smartphone",
+  "review": "Exceptional camera performance and clean Android experience. Ideal for photography lovers.",
+  "imageUrl": "https://store.google.com/us/product/pixel_8_pro?hl=en-US"
+ },
+ {
+  "productName": "Realme Narzo 60x",
+  "category": "Budget Smartphone",
+  "review": "Affordable, decent camera and performance for daily use. Good value for money.",
+  "imageUrl": "https://image01.realme.net/general/20230901/1693563219987.png"
+ },
+ {
+  "productName": "Xiaomi Mi 13 Pro",
+  "category": "Smartphone",
+  "review": "Great performance, flagship-grade camera, and competitive pricing.",
+  "imageUrl": "https://www.mi.com/global/mi-13-pro"
+ },
+ {
+  "productName": "Vivo V27 Pro",
+  "category": "Smartphone",
+  "review": "Good camera setup and reliable performance at a mid-range price point.",
+  "imageUrl": "https://www.vivo.com/vn/products/v27pro"
+ },
+ {
+  "productName": "Oppo Find X6 Pro",
+  "category": "Smartphone",
+  "review": "Powerful camera system, great battery life, and unique design.",
+  "imageUrl": "https://www.oppo.com/en/smartphones/series-find/find-x6-pro"
+ },
+ {
+  "productName": "Asus Zenfone 9",
+  "category": "Smartphone",
+  "review": "Compact with premium features and a smooth user experience.",
+  "imageUrl": "https://www.asus.com/us/Phone/ZenFone-9"
+ },
+ {
+  "productName": "Motorola Edge 40 Pro",
+  "category": "Smartphone",
+  "review": "Top-tier display and performance for a competitive price.",
+  "imageUrl": "https://www.motorola.com/us/smartphones-motorola-edge-40-pro"
+ },
+ {
+  "productName": "Samsung Galaxy Z Fold 5",
+  "category": "Foldable Smartphone",
+  "review": "Innovative foldable design with flagship-grade performance.",
+  "imageUrl": "https://www.samsung.com/global/galaxy/galaxy-z-fold5/"
+ },
+ {
+  "productName": "Samsung Galaxy Z Flip 5",
+  "category": "Foldable Smartphone",
+  "review": "Compact foldable phone with great design and performance.",
+  "imageUrl": "https://www.samsung.com/global/galaxy/galaxy-z-flip5/"
+ },
+ {
+  "productName": "iPhone 13 Mini",
+  "category": "Smartphone",
+  "review": "Compact size with solid performance, great for those who prefer smaller phones.",
+  "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-13-mini-blue"
+ },
+ {
+  "productName": "Google Pixel 7a",
+  "category": "Smartphone",
+  "review": "Affordable with a good camera, solid Android experience.",
+  "imageUrl": "https://store.google.com/us/product/pixel_7a?hl=en-US"
+ },
+ {
+  "productName": "Honor Magic 5 Pro",
+  "category": "Smartphone",
+  "review": "Excellent performance, camera, and battery life at a competitive price.",
+  "imageUrl": "https://www.hihonor.com/global/"
+ },
+ {
+  "productName": "Xiaomi Redmi Note 12 Pro",
+  "category": "Budget Smartphone",
+  "review": "Great performance and camera for the price range.",
+  "imageUrl": "https://www.mi.com/in/redmi-note-12-pro"
+ },
+ {
+  "productName": "Realme GT 2 Pro",
+  "category": "Smartphone",
+  "review": "Flagship performance with a premium design and great camera.",
+  "imageUrl": "https://www.realme.com/in/realme-gt-2-pro"
+ },
+ {
+  "productName": "Nokia G400",
+  "category": "Budget Smartphone",
+  "review": "Affordable, decent features for basic smartphone users.",
+  "imageUrl": "https://www.nokia.com/phones/en_int/nokia-g400"
+ },
+ {
+  "productName": "Sony Xperia 1 IV",
+  "category": "Smartphone",
+  "review": "Top-tier camera features with cinematic quality video recording.",
+  "imageUrl": "https://www.sony.com/electronics/smartphones/xperia-1m4"
+ },
+ {
+  "productName": "Huawei Mate 50 Pro",
+  "category": "Smartphone",
+  "review": "High-end specs with an incredible camera system.",
+  "imageUrl": "https://consumer.huawei.com/en/phones/mate50-pro/"
+ }
+]

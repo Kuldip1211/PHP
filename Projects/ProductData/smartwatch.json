@@ -1,0 +1,122 @@
+[
+ {
+  "productName": "Apple Watch Series 8",
+  "category": "Smartwatch",
+  "review": "Premium smartwatch with excellent fitness tracking, always-on display, and seamless integration with iPhone.",
+  "imageUrl": "https://www.apple.com/v/apple-watch-series-8/g/images/overview/hero_endframe__bvyh2wx6qxk6_large.jpg"
+ },
+ {
+  "productName": "Samsung Galaxy Watch 6",
+  "category": "Smartwatch",
+  "review": "Stylish smartwatch with comprehensive fitness tracking and long battery life.",
+  "imageUrl": "https://www.samsung.com/global/galaxy/galaxy-watch6/"
+ },
+ {
+  "productName": "Garmin Fenix 7",
+  "category": "Smartwatch",
+  "review": "Rugged and durable smartwatch designed for outdoor enthusiasts with advanced fitness tracking.",
+  "imageUrl": "https://static.garmincdn.com/en/images/technology/fenix-7.png"
+ },
+ {
+  "productName": "Fitbit Sense 2",
+  "category": "Smartwatch",
+  "review": "Health-focused smartwatch with advanced sensors for heart rate, stress, and skin temperature tracking.",
+  "imageUrl": "https://static.fitnessbuzz.net/fitbit-sense-2.png"
+ },
+ {
+  "productName": "Amazfit GTR 4",
+  "category": "Smartwatch",
+  "review": "Affordable smartwatch with great battery life, large display, and comprehensive fitness features.",
+  "imageUrl": "https://www.amazfit.com/static/media/images/gtr-4.jpg"
+ },
+ {
+  "productName": "Huawei Watch GT 3",
+  "category": "Smartwatch",
+  "review": "Feature-packed smartwatch with long battery life and accurate health tracking features.",
+  "imageUrl": "https://consumer.huawei.com/en/wearables/watch-gt3/"
+ },
+ {
+  "productName": "Suunto 9 Peak",
+  "category": "Smartwatch",
+  "review": "Outdoor smartwatch with excellent GPS accuracy, long battery life, and rugged build quality.",
+  "imageUrl": "https://www.suunto.com/Suunto/media/SuuntoSite/hero/suunto9peak-silver-black-suits.jpg"
+ },
+ {
+  "productName": "Fossil Gen 6",
+  "category": "Smartwatch",
+  "review": "Stylish smartwatch with great performance and compatibility with both Android and iOS.",
+  "imageUrl": "https://www.fossil.com/di/cms/front_content.php?idart=2398"
+ },
+ {
+  "productName": "Withings Steel HR",
+  "category": "Smartwatch",
+  "review": "Hybrid smartwatch with fitness tracking and a sleek, analog design.",
+  "imageUrl": "https://www.withings.com/en/us/steel-hr"
+ },
+ {
+  "productName": "Garmin Venu 2",
+  "category": "Smartwatch",
+  "review": "Smartwatch with vibrant AMOLED display, health and fitness tracking, and built-in GPS.",
+  "imageUrl": "https://static.garmincdn.com/en/images/technology/venu-2.jpg"
+ },
+ {
+  "productName": "Amazfit Bip U Pro",
+  "category": "Smartwatch",
+  "review": "Affordable smartwatch with built-in GPS, heart rate monitor, and sleep tracking features.",
+  "imageUrl": "https://www.amazfit.com/static/media/images/bipu.jpg"
+ },
+ {
+  "productName": "Samsung Galaxy Watch 5",
+  "category": "Smartwatch",
+  "review": "Elegant and functional smartwatch with solid fitness tracking features and a sleek design.",
+  "imageUrl": "https://www.samsung.com/global/galaxy/galaxy-watch5/"
+ },
+ {
+  "productName": "Polar Vantage V2",
+  "category": "Smartwatch",
+  "review": "Premium multisport smartwatch with advanced metrics for athletes and long battery life.",
+  "imageUrl": "https://www.polar.com/sites/default/files/styles/hero_section_desktop/public/2020-10/polar_vantage_v2_black.jpg"
+ },
+ {
+  "productName": "Amazfit T-Rex Pro",
+  "category": "Smartwatch",
+  "review": "Rugged smartwatch with military-grade durability, excellent battery life, and outdoor features.",
+  "imageUrl": "https://www.amazfit.com/static/media/images/t-rex-pro.jpg"
+ },
+ {
+  "productName": "Apple Watch SE 2",
+  "category": "Smartwatch",
+  "review": "Affordable Apple Watch with essential features and great value for money.",
+  "imageUrl": "https://www.apple.com/v/apple-watch-se/g/images/overview/hero_endframe__bvyh2wx6qxk6_large.jpg"
+ },
+ {
+  "productName": "Garmin Forerunner 945",
+  "category": "Smartwatch",
+  "review": "Feature-rich smartwatch for athletes with advanced performance metrics and built-in maps.",
+  "imageUrl": "https://static.garmincdn.com/en/images/technology/forerunner-945.jpg"
+ },
+ {
+  "productName": "Fitbit Charge 5",
+  "category": "Smartwatch",
+  "review": "Fitness tracker with health-focused features, including ECG and stress tracking.",
+  "imageUrl": "https://static.fitnessbuzz.net/charge-5.jpg"
+ },
+ {
+  "productName": "Suunto 7",
+  "category": "Smartwatch",
+  "review": "Smartwatch with excellent fitness tracking, Google Wear OS, and solid battery life.",
+  "imageUrl": "https://www.suunto.com/Suunto/media/SuuntoSite/hero/suunto7.jpg"
+ },
+ {
+  "productName": "Huawei Watch Fit 2",
+  "category": "Smartwatch",
+  "review": "Affordable fitness-focused smartwatch with a bright AMOLED screen and comprehensive fitness tracking.",
+  "imageUrl": "https://consumer.huawei.com/en/wearables/watch-fit-2/"
+ },
+ {
+  "productName": "TicWatch Pro 3",
+  "category": "Smartwatch",
+  "review": "Advanced smartwatch with dual display technology for long battery life and rich fitness features.",
+  "imageUrl": "https://www.mobvoi.com/wp-content/uploads/2021/06/TicWatch-Pro-3-Global.png"
+ }
+]

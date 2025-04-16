@@ -1,0 +1,110 @@
+[
+ {
+  "productName": "Apple MacBook Pro 16-inch",
+  "category": "Laptop",
+  "review": "Powerful laptop with excellent performance, beautiful display, and long battery life.",
+  "imageUrl": "https://www.apple.com/v/macbook-pro-16/h/images/overview/hero_endframe__c8v8zgpttqau_large.jpg"
+ },
+ {
+  "productName": "Dell XPS 13",
+  "category": "Laptop",
+  "review": "Premium ultrabook with sleek design, fast performance, and vibrant display.",
+  "imageUrl": "https://i.dell.com/sites/csimages/Merchandizing_Imagery/all/xps-13-9310-laptop.jpg"
+ },
+ {
+  "productName": "HP Spectre x360 14",
+  "category": "Laptop",
+  "review": "Stylish 2-in-1 convertible laptop with impressive performance and battery life.",
+  "imageUrl": "https://www.hp.com/cwimgs/spectre-x360-14.jpg"
+ },
+ {
+  "productName": "Lenovo ThinkPad X1 Carbon Gen 9",
+  "category": "Laptop",
+  "review": "Business-oriented laptop with a great keyboard, long battery life, and durable build.",
+  "imageUrl": "https://www.lenovo.com/medias/lenovo-thinkpad-x1-carbon-gen-9-hero.jpg?context=bWFzdGVyfHJvb3R8Mjk3Nzg0fGltYWdlL2pwZ3xoZmEvaDk1LzEwMzg3ODgyMjI4OTYyLmpwZ3w1Nzk2YzUyMjNjOGJhNzZjNjc4NzgwZTBhNDFmMmE4ZTY3NjhhZGRiZTIzYTYzOWI4OGJlYTQwMGI0MjU5NDkzY2RkOTYyYjM3MWY4Y2U2Y2JlNmEzNzA1ZjY0YjZkMmFkNWI5ZGZkYjkyNjk5MGNiOGQ3YzdhNTc2ZTIwNzV9"
+ },
+ {
+  "productName": "Microsoft Surface Laptop 4",
+  "category": "Laptop",
+  "review": "Elegant laptop with solid performance, excellent display, and good battery life.",
+  "imageUrl": "https://c.s-microsoft.com/en-us/CMSImages/SurfaceLaptop4_Keyboard_Feature_900x600.jpg?version=c71b3a72-b8ff-abb5-8fdb-13d1c70c8e92"
+ },
+ {
+  "productName": "Asus ROG Zephyrus G14",
+  "category": "Laptop",
+  "review": "High-performance gaming laptop with compact size and great battery life.",
+  "imageUrl": "https://rog.asus.com/media/1256422/zephyrus-g14-w-badge.jpg"
+ },
+ {
+  "productName": "Mac mini with M1 chip",
+  "category": "Desktop",
+  "review": "Compact desktop with exceptional performance and efficiency thanks to the Apple M1 chip.",
+  "imageUrl": "https://www.apple.com/v/mac-mini/b/images/overview/hero_endframe__c8v8zgpttqau_large.jpg"
+ },
+ {
+  "productName": "Dell Alienware Aurora Ryzen Edition",
+  "category": "Desktop",
+  "review": "Powerful gaming desktop with customizable options and exceptional performance.",
+  "imageUrl": "https://www.dell.com/support/assets/images/Alienware/aurora-ryzen.jpg"
+ },
+ {
+  "productName": "HP Omen 30L",
+  "category": "Desktop",
+  "review": "High-performance gaming desktop with futuristic design and powerful specs.",
+  "imageUrl": "https://www.hp.com/cwimgs/omen-30l.jpg"
+ },
+ {
+  "productName": "Lenovo Legion Tower 5i",
+  "category": "Desktop",
+  "review": "Affordable gaming desktop with great specs and expansion options.",
+  "imageUrl": "https://www.lenovo.com/medias/legion-tower-5i-hero.jpg"
+ },
+ {
+  "productName": "MSI Creator P100X",
+  "category": "Desktop",
+  "review": "Ideal for content creators, featuring powerful specs and a sleek design.",
+  "imageUrl": "https://www.msi.com/mediapack/assets/creator-p100x-2.jpg"
+ },
+ {
+  "productName": "Razer Blade 15",
+  "category": "Laptop",
+  "review": "Premium gaming laptop with high refresh rate display and top-tier performance.",
+  "imageUrl": "https://www.razer.com/razer-blade-15-gallery.jpg"
+ },
+ {
+  "productName": "Gigabyte AORUS 15G",
+  "category": "Laptop",
+  "review": "High-performance gaming laptop with a great mechanical keyboard and smooth display.",
+  "imageUrl": "https://www.gigabyte.com/fileupload/20200910143556088.png"
+ },
+ {
+  "productName": "Samsung Odyssey G7",
+  "category": "Monitor",
+  "review": "Curved gaming monitor with a 240Hz refresh rate, excellent for competitive gaming.",
+  "imageUrl": "https://images.samsung.com/us/monitors/odyssey/g7/odyssey-g7-curve-monitor.jpg"
+ },
+ {
+  "productName": "LG UltraWide 34WN80C-B",
+  "category": "Monitor",
+  "review": "Great ultrawide monitor for productivity and multitasking with excellent color accuracy.",
+  "imageUrl": "https://www.lg.com/us/images/monitors/34wn80c-b-gallery-01.jpg"
+ },
+ {
+  "productName": "BenQ PD2700U",
+  "category": "Monitor",
+  "review": "Ideal for designers, featuring 4K resolution and accurate color reproduction.",
+  "imageUrl": "https://www.benq.com/en-us/monitor/photography/pd2700u.html"
+ },
+ {
+  "productName": "Acer Predator X34",
+  "category": "Monitor",
+  "review": "Curved gaming monitor with high refresh rate and immersive visuals.",
+  "imageUrl": "https://www.acer.com/ac/en/US/content/series/predatorx34"
+ },
+ {
+  "productName": "ViewSonic Elite XG270QG",
+  "category": "Monitor",
+  "review": "Top-tier gaming monitor with 1ms response time and G-Sync technology.",
+  "imageUrl": "https://www.viewsonic.com/us/elite-xg270qg-hero.jpg"
+ }
+]
